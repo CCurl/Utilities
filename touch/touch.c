@@ -2,10 +2,6 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <string.h>
-//#include "Shared.h"
-//#include "forth-vm.h"
-//#include "string.h"
-//#include "logger.h"
 
 char input_fn[256];
 
